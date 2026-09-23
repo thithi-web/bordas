@@ -14,13 +14,13 @@
      width: 400px;
     height: 150px;
 
-    padding-top: 50px;
-    padding-left: 150px;
+    padding-top: 50px;/*espaço interno do topo*/
+    padding-left: 150px;/*espaço interno do esquerda*/
 
     border: 5px solid black;
 
-    margin-left: 70px;
-    margin-top: 25px;
+    margin-left: 70px;/*espaço externo do topo*/
+    margin-top: 25px;/*espaço externo esquerda*/
 
 }
 
@@ -30,13 +30,13 @@
     width: 600px;
     height: 300px;
 
-    padding-top: 125px;
-    padding-left: 250px;
+    padding-top: 125px;/*espaço interno do topo*/
+    padding-left: 250px;/*espaço interno do esquerda*/
 
     border: 10px solid rgb(131, 141, 141);
 
-    margin-top: 40px;
-    margin-left: 70px;
+    margin-top: 40px;/*espaço externo do topo*/
+    margin-left: 70px;/*espaço externo esquerda*/
     margin-right: 70px;
 }
 
@@ -47,13 +47,13 @@ display: inline-block;
 width: 240px;
 height: 150px;
 
-padding-top: 60px ;
+padding-top: 60px ;/*espaço interno do topo*/
 padding-left: 100px;
 
-border: 5px solid rgb(199, 159, 29);
-margin-top: 40px;
-margin-left: 70px;
-margin-right: 55px;
+border: 5px solid rgb(199, 159, 29); /*borda da caixa*/
+margin-top: 40px; /*espaço externo do topo*/
+margin-left: 70px; /*espaço externo esquerda*/
+margin-right: 55px; /*distancia da espaço externo direita*/
 }
 body{
     background-color: rgb(2, 2, 73);
