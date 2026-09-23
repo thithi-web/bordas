@@ -1,0 +1,60 @@
+
+
+
+*{
+    margin: 0%;
+    padding: 0%;
+    box-sizing: border-box;
+}
+
+.atuma{
+    background-color: rgb(3, 98, 221);
+    display: inline-block;
+
+     width: 400px;
+    height: 150px;
+
+    padding-top: 50px;
+    padding-left: 150px;
+
+    border: 5px solid black;
+
+    margin-left: 70px;
+    margin-top: 25px;
+
+}
+
+.meia{
+    background-color: rgb(189, 126, 32);
+    display: inline-block;
+    width: 600px;
+    height: 300px;
+
+    padding-top: 125px;
+    padding-left: 250px;
+
+    border: 10px solid rgb(131, 141, 141);
+
+    margin-top: 40px;
+    margin-left: 70px;
+    margin-right: 70px;
+}
+
+.canteta{
+
+background-color: brown;
+display: inline-block;
+width: 240px;
+height: 150px;
+
+padding-top: 60px ;
+padding-left: 100px;
+
+border: 5px solid rgb(199, 159, 29);
+margin-top: 40px;
+margin-left: 70px;
+margin-right: 55px;
+}
+body{
+    background-color: rgb(2, 2, 73);
+}
